@@ -18,6 +18,11 @@ You will need [XAMPP](https://www.apachefriends.org/xampp-files/7.4.29/xampp-win
 Once installed, open XAMPP and start the Apache service. Then, you can [click here to access No Ads Lol](http://localhost).
 ### Other OSes
 If you have installation directions for your OS, feel free to share! I'll add them here and give you credit so others can use No Ads Lol on their device.
+### Raw Code
+Want to download the raw source code or is the Github repo down? You can get the raw No Ads Lol code from...
+- Github ([click to download ZIP](https://github.com/noadslol/noadslol/archive/refs/heads/main.zip)),
+- Git (run `git clone https://github.com/noadslol/noadslol`), or
+- MediaFire ([click to download ZIP](https://www.mediafire.com/file/043xb904hwa77la/No_Ads_Lol.zip/file)--adblocker reccomended).
 ## Notable Features
 - Clean, nice-looking homepage that displays trending videos, music and news--all in one place
 - A fully-functional search box to search for your favorite video or creator
