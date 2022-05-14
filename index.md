@@ -1,5 +1,6 @@
 # No Ads Lol
 ## The new [redacted] client, coded in PHP.
+## New to No Ads Lol? [Read the docs.](https://team-rawrware.gitbook.io/no-ads-lol/)
 ## Screenshots
 ### Homepage
 ![Screenshot of homepage](https://github.com/noadslol/noadslol/blob/main/screenshots/home.png?raw=true)
